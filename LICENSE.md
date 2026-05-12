@@ -1,4 +1,4 @@
-# 
+# Enhance DaVinci Resolve for macOS with automatic DaVinci Resolve for macOS Template | real-time-effects + reverb, the #1 template. Includes real-time-effects and reverb for a
 
 
 
